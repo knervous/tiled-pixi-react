@@ -41,7 +41,7 @@
     "canvas-prebuilt": "^2.0.0-alpha.14",
     "jest-canvas-mock": "^2.2.0",
     "jest-canvas-snapshot-serializer": "^1.0.1",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "@inlet/react-pixi": "^1.2.5",
